@@ -11,7 +11,7 @@
 - 💬 Ask me about  ML,DataScience,EDA methods,Python .
 - 📫 How to reach me: <br>  <b>Email<b>- pandeyrahulraj99@gmail.com<br>
                              <b>LinkedIn<b> - https://www.linkedin.com/in/rahul-raj-pandey-60b5861b1 <br>
-                             <b>Kaggle<b>- https://www.kaggle.com/rahulrajpandey31
+                             <b>Kaggle<b>- https://www.kaggle.com/rahulrajpandey31<br>
                              <b>Instagram<b>- https://www.instagram.com/they.call.me.lunatic/ <br>
                              <b>Snapchat<b> - lunatic.rahul                               
 - 😄 Pronouns: Techy, Fast Learner, or you can give me one yourself. 😀
