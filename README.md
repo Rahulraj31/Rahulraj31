@@ -5,7 +5,7 @@
   
   
 **Hi There✌**
-- 🔭 I’m currently working on Breast Canver Analysis and Prediction 
+- 🔭 I’m currently working on Breast Cancer Analysis and Prediction Using ML *(it is my college project click* <a href=https://github.com/Rahulraj31/Breast-Cancer-Analysis-and-Prediction-Using-ML>here</a> *to see )*
 - 🌱 I’m currently learning Open Cv, Deep learning, Best practices in Data science 
 - 👯 I’m looking to collaborate on data science releated projects
 - 💬 Ask me about  ML,DataScience,EDA methods,Python .
