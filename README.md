@@ -56,8 +56,8 @@ A Coder and a Machine learning enthusiast<br>
 </p>
 
 ### Extras🎈🎈
-- 📄 My Certificates-https://drive.google.com/drive/folders/15w2KqSBOAJteR4nXQbkcDOs3_r72ilc_?usp=sharing
-- 🎁My E-commerce Site - https://rahulice.herokuapp.com/
-  
+- 📄 [My Certificates](https://drive.google.com/drive/folders/15w2KqSBOAJteR4nXQbkcDOs3_r72ilc_?usp=sharing)
+- 🎁 [My E-commerce Site](https://rahulice.herokuapp.com/)
+- 📜 [My Resume](https://drive.google.com/file/d/1UdG_vv2-2yYdhz6xScpldjOJbyBd_35G/view?usp=sharing)
 
  
