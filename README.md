@@ -21,7 +21,7 @@ A Coder and a Machine learning enthusiast<br>
 
 ### Organizations 🏢
 
-- Campus Ambassdor at Colleduniya pvt. Ltd.
+- Campus Ambassdor at (Colleduniya Web Pvt. Ltd.)[https://collegedunia.com/]
 
 ### Experience ⚓ 
 
