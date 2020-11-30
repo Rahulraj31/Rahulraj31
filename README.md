@@ -15,9 +15,10 @@ A Coder and a Machine learning enthusiast<br>
 
 <br>
 
-![coffee code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![NASA code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-![Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=Rahulraj31&show_icons=true&theme=radical)
+![Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=Rahulraj31&show_icons=true&theme=radical) 
+
 
 ### Organizations 🏢
 
@@ -59,5 +60,12 @@ A Coder and a Machine learning enthusiast<br>
 - 📄 [My Certificates](https://drive.google.com/drive/folders/15w2KqSBOAJteR4nXQbkcDOs3_r72ilc_?usp=sharing)
 - 🎁 [My E-commerce Site](https://rahulice.herokuapp.com/)
 - 📜 [My Resume](https://drive.google.com/file/d/1UdG_vv2-2yYdhz6xScpldjOJbyBd_35G/view?usp=sharing)
+
+
+<p align="center"> 
+❤️ Thank you for visiting my Github Profile ❤️</b>
+</p>
+
+
 
  
