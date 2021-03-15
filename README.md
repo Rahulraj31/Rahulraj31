@@ -6,7 +6,7 @@ A Coder and a Machine learning enthusiast<br>
 ![robo hello](https://user-images.githubusercontent.com/51138087/93663951-39922d00-fa20-11ea-952b-48da7a6e5381.gif)<br>
 
 
-- 🔭 I’m currently working on Breast Cancer Analysis and Prediction Using ML *(it is my college project click* <a href=https://github.com/Rahulraj31/Breast-Cancer-Analysis-and-    Prediction-Using-ML>here</a> *to see )*
+- 🔭 I’m currently working on Computer Vision applications
 - 🌱 I’m currently learning Open Cv, Deep learning, Best practices in Data science, DSA 
 - 👯 I’m looking to collaborate on data science releated projects
 - 💬 Ask me about  ML,DataScience,EDA methods,Python .
