@@ -1,3 +1,4 @@
+![head](bottom_tail.svg)
 ### Hi There✌, I'm  Rahul 
 A Coder and a Machine learning enthusiast<br>
 
@@ -65,6 +66,9 @@ A Coder and a Machine learning enthusiast<br>
 <p align="center"> 
 ❤️ Thank you for visiting my Github Profile ❤️</b>
 </p>
+<br>
+
+![tail](bottom_header.svg)
 
 
 
