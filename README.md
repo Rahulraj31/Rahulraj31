@@ -1,6 +1,8 @@
 ![head](bottom_tail.svg)
-### Hi There✌, I'm  Rahul 
-A Coder and a Machine learning enthusiast<br>
+<h1 align=center> Hi There✌, I'm  Rahul </h1>
+
+### A Coder and a Machine learning enthusiast
+<br>
 
 <img align="left" width="260" height="260" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
