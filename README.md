@@ -60,7 +60,7 @@
 
 ### Check out my coding skills
 <p align="left">
-  <a href="https://www.hackerrank.com/pandeyrahulraj99" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kushalbhanot" height="60" width="45" /></a> &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/pandeyrahulraj99" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/62799332/120929359-64cfc000-c706-11eb-97a4-15ae5d590220.png" alt="kushalbhanot" height="60" width="55" /></a> &nbsp;&nbsp;
 </p>
 
 ### Extras🎈🎈
