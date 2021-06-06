@@ -18,7 +18,7 @@
 
 <br>
 
-![NASA code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Stat code](https://github-readme-streak-stats.herokuapp.com/?user=Rahulraj31&theme=dark)
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulRaj31&show_icons=true&theme=radical) 
 
