@@ -4,9 +4,11 @@
 ### A Coder and a Machine learning enthusiast
 <br>
 
-<img align="left" width="260" height="260" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+<img align="left" width="280" height="290" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-![robo hello](https://user-images.githubusercontent.com/51138087/93663951-39922d00-fa20-11ea-952b-48da7a6e5381.gif)<br>
+![robo hello](https://user-images.githubusercontent.com/51138087/93663951-39922d00-fa20-11ea-952b-48da7a6e5381.gif)
+
+<br>
 
 
 - 🔭 I’m currently working on Computer Vision applications
@@ -29,7 +31,7 @@
 
 ### Experience ⚓ 
 
-- Project lead and Machine learning developer intern [@Technocolabs](https://github.com/Technocolabs100)
+- Project lead and Machine Learning Developer Intern [@Technocolabs](https://github.com/Technocolabs100)
 
 ### Languages and tools :<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
 
@@ -74,6 +76,3 @@
 
 ![tail](bottom_header.svg)
 
-
-
- https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg
