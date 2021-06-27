@@ -44,6 +44,9 @@
 - Scikit learn
 - Pycharm
 - Tensorflow
+- Flask 
+- Django
+- SQL
 
 ### Contact me
 
