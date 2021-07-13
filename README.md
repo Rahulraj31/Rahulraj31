@@ -73,8 +73,8 @@
 - 📜 [My Resume](https://drive.google.com/file/d/1UdG_vv2-2yYdhz6xScpldjOJbyBd_35G/view?usp=sharing)
 
 
-<p align="center"> 
-❤️ Thank you for visiting my Github Profile ❤️</b>
+<p align="center" styles="font-size: 100px"> 
+   <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </p>
 <br>
 
