@@ -20,9 +20,9 @@
 
 <br>
 
-![Stat code](https://github-readme-streak-stats.herokuapp.com/?user=Rahulraj31&theme=dark)
+<!-- ![Stat code](https://github-readme-streak-stats.herokuapp.com/?user=Rahulraj31&theme=dark)  -->
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulRaj31&show_icons=true&theme=radical) 
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulRaj31&show_icons=true&theme=radical)
 
 
 ### Organizations 🏢
