@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on Computer Vision applications
-- 🌱 I’m currently learning Open Cv, Deep learning, Best practices in Data science, DSA 
+- 🌱 I’m currently learning Open Cv, Pytorch, Best practices in Data science, DSA 
 - 👯 I’m looking to collaborate on ML/DL/DS releated projects
 - 💬 Ask me about  ML,DataScience,EDA methods,Python,DL .
 - 😄 Pronouns: He/him
@@ -44,6 +44,7 @@
 - Scikit learn
 - Pycharm
 - Tensorflow
+- Pytorch
 - Flask 
 - Django
 - SQL
