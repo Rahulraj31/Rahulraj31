@@ -4,13 +4,6 @@
 ### A Coder and a Machine learning enthusiast
 <br>
 
-<img align="left" width="280" height="290" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-
-![robo hello](https://user-images.githubusercontent.com/51138087/93663951-39922d00-fa20-11ea-952b-48da7a6e5381.gif)
-
-<br>
-
-
 - 🔭 I’m currently working on Computer Vision applications
 - 🌱 I’m currently learning Open Cv, Pytorch, Best practices in Data science, DSA 
 - 👯 I’m looking to collaborate on ML/DL/DS releated projects
