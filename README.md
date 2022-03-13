@@ -46,7 +46,7 @@
 
 <p align="left">
    <a href="mailto:pandeyrahulraj99@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png"  height="50" width="50" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahul-raj-pandey-60b5861b1" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"  height="60" width="60" /></a> 
+  <a href="https://www.linkedin.com/in/rahulraj31/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"  height="60" width="60" /></a> 
 <a href="https://www.kaggle.com/rahulrajpandey31"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kaggle.svg"  height="50" width="50" /></a> 
   <a href="https://www.instagram.com/they.call.me.lunatic/"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"  height="60" width="60" /></a> &nbsp;&nbsp;
     <a href="https://www.snapchat.com/add/lunatic.rahul"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/snapchat.svg"  height="50" width="50" /></a> &nbsp;&nbsp;
