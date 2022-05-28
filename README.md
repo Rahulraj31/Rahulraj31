@@ -66,6 +66,7 @@
 - 🎁 [My E-commerce Site](https://rahulice.herokuapp.com/)
 - 📜 [My Resume](https://drive.google.com/file/d/1yMTAsnWJPqrD-AwP-VfUgdlkZ0Hp36_g/view?usp=sharing)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rahulraj31&label=Profile%20views&color=0e75b6&style=flat" alt="kavyasree-2020" /> </p>
 
 <p align="center" styles="font-size: 100px"> 
    <b>❤️ Thank you for visiting my Github Profile ❤️</b>
