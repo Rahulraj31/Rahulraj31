@@ -18,13 +18,13 @@
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=RahulRaj31&show_icons=true&theme=radical)
 
 
-### Organizations 🏢
+<!---### Organizations 🏢
 
-- Campus Ambassdor at [Colleduniya Web Pvt. Ltd.](https://collegedunia.com/)
+- Campus Ambassdor at [Colleduniya Web Pvt. Ltd.](https://collegedunia.com/)-->
 
-### Experience ⚓ 
+<!--- ### Experience ⚓ 
 
-- Project lead and Machine Learning Developer Intern [@Technocolabs](https://github.com/Technocolabs100)
+- Project lead and Machine Learning Developer Intern [@Technocolabs](https://github.com/Technocolabs100)-->
 
 ### Languages and tools :<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
 
