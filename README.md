@@ -4,10 +4,10 @@
 ### A Coder and a Machine learning enthusiast
 <br>
 
-- 🔭 I’m currently working on Computer Vision applications
-- 🌱 I’m currently learning Open Cv, Pytorch, Best practices in Data science, DSA 
+- 🔭 I’m currently working on Structured data 
+- 🌱 I’m currently learning Open Cv, Best practices in Data science, DSA 
 - 👯 I’m looking to collaborate on ML/DL/DS releated projects
-- 💬 Ask me about  ML,DataScience,EDA methods,Python,DL .
+- 💬 Ask me about  ML,DataScience,Python,DL .
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I knew HTML can't hack NASA  when I started learning it in class 7th.
 
