@@ -65,6 +65,16 @@
 
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/7f50de8d-3e91-4d20-9d37-764874366d58" title="Professional Machine Learning Engineer Certification"><img src="https://images.credly.com/size/80x80/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="Professional Machine Learning Engineer Certification" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/89ac6d8f-0fe2-4673-9f01-2633c6860e78" title="Professional Cloud Architect Certification"><img src="https://images.credly.com/size/80x80/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Professional Cloud Architect Certification" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/5e4ac40b-2922-4c2e-b97c-585d40d0d842" title="Applied Data Science with Python - Level 2"><img src="https://images.credly.com/size/80x80/images/90b92982-adc0-4826-afeb-455be8609899/blob" alt="Applied Data Science with Python - Level 2" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/b1b90c32-feda-492d-87f1-ced78d79552f" title="Cloud Digital Leader Certification"><img src="https://images.credly.com/size/80x80/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Cloud Digital Leader Certification" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/968c1ccc-04fb-49e2-824f-45ce197958a9" title="Python for Data Science"><img src="https://images.credly.com/size/80x80/images/b40db465-587f-45eb-a854-af8630a630e7/blob" alt="Python for Data Science" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/0f4e5145-a8a8-4ebd-9394-7d07e9f3b248" title="Data Analysis Using Python"><img src="https://images.credly.com/size/80x80/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" alt="Data Analysis Using Python" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/71986f5f-d9c8-4f36-b406-6c0ecb8e4e34" title="Data Visualization Using Python"><img src="https://images.credly.com/size/80x80/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" alt="Data Visualization Using Python" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/2ff7de9e-92f3-42a7-9e70-6f394d534959" title="Machine Learning with Python - Level 1"><img src="https://images.credly.com/size/80x80/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" alt="Machine Learning with Python - Level 1" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/f73a1c77-05ab-44e4-8b43-94047315b904" title="Deep Learning using TensorFlow"><img src="https://images.credly.com/size/80x80/images/ba85e07d-8263-4f30-b39b-d79883ee558c/blob" alt="Deep Learning using TensorFlow" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/727a09a3-3198-4b0a-b49f-d08ffad4ade4" title="Generative AI Leader Certification"><img src="https://images.credly.com/size/80x80/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Generative AI Leader Certification" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 
