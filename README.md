@@ -42,7 +42,7 @@
 <p align="left">
    <a href="mailto:pandeyrahulraj99@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png"  height="50" width="50" /></a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rahulraj31/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"  height="60" width="60" /></a> 
-<a href="https://www.kaggle.com/rahulrajpandey31"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kaggle.svg"  height="50" width="50" /></a> 
+<!-- <a href="https://www.kaggle.com/rahulrajpandey31"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/kaggle.svg"  height="50" width="50" /></a>  -->
   <!-- <a href="https://www.instagram.com/they.call.me.lunatic/"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"  height="60" width="60" /></a> &nbsp;&nbsp;
     <a href="https://www.snapchat.com/add/lunatic.rahul"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/snapchat.svg"  height="50" width="50" /></a> &nbsp;&nbsp;
    <a href="https://twitter.com/itsRahul_raj"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"  height="50" width="50" />
@@ -62,6 +62,12 @@
 - 🎁 [My E-commerce Site](https://rahulice.herokuapp.com/)
 - 📜 [My Resume](https://drive.google.com/file/d/1yMTAsnWJPqrD-AwP-VfUgdlkZ0Hp36_g/view?usp=sharing)
 -->
+
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rahulraj31&label=Profile%20views&color=0e75b6&style=flat" alt="kavyasree-2020" /> </p>
 
 <p align="center" styles="font-size: 100px"> 
