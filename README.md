@@ -75,7 +75,6 @@
 <a href="https://www.credly.com/badges/71986f5f-d9c8-4f36-b406-6c0ecb8e4e34" title="Data Visualization Using Python"><img src="https://images.credly.com/size/80x80/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" alt="Data Visualization Using Python" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/2ff7de9e-92f3-42a7-9e70-6f394d534959" title="Machine Learning with Python - Level 1"><img src="https://images.credly.com/size/80x80/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" alt="Machine Learning with Python - Level 1" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f73a1c77-05ab-44e4-8b43-94047315b904" title="Deep Learning using TensorFlow"><img src="https://images.credly.com/size/80x80/images/ba85e07d-8263-4f30-b39b-d79883ee558c/blob" alt="Deep Learning using TensorFlow" width="80" height="80"></a>
-
 <!--END_SECTION:badges-->
 
 
